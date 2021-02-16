@@ -30,5 +30,5 @@ class CasillaDeVotacion:
 
 casilla = CasillaDeVotacion(123, ['Mexico', 'Morelos'])
 print(casilla.region)
-casilla.region = 'Mexico'
+casilla.region = 'Cali'
 print(casilla.region)
